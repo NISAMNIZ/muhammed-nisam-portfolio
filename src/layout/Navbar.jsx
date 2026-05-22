@@ -8,6 +8,7 @@ const navLinks = [
   { href: "#experience", label: "Experience" },
   // { href: "#testimonials", label: "Testimonials" },
   { href: "#education", label: "Education" },
+  { href: "#skills", label: "Skills" },
 ];
 
 export const Navbar = () => {
