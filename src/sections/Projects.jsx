@@ -24,6 +24,25 @@ const projects = [
     github: "",
   },
   {
+    title: "FinanceFlow",
+    description:
+      "A personal finance management platform that helps users track income and expenses, manage budgets, set savings goals, and visualize financial activity through interactive dashboards and reports.",
+    image: "/projects/financeflow.png",
+
+    tags: [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "Supabase",
+      "PostgreSQL",
+      "Recharts",
+    ],
+
+    link: "https://financeflow-pfm.vercel.app/",
+
+    github: "https://github.com/NISAMNIZ/financeflow",
+  },
+  {
     title: "EKART – Laravel eCommerce Platform",
     description:
       "Developed a scalable eCommerce platform with product management, shopping cart, order handling, and secure payment integration optimized for performance and security.",
