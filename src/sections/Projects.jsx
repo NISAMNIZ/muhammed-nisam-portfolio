@@ -42,6 +42,25 @@ const projects = [
 
     github: "https://github.com/NISAMNIZ/financeflow",
   },
+
+  {
+  title: "Sama Al Aula",
+  description:
+    "A B2B wholesale trading website showcasing products, special offers, and business services. Designed to help businesses explore wholesale product categories and connect directly with the company for inquiries.",
+  image: "/projects/samma-al-aula.png",
+
+  tags: [
+    "WordPress",
+    "Elementor",
+    "PHP",
+    "CSS",
+    "JavaScript",
+    "SEO",
+  ],
+
+  link: "https://samma-al-aula.42web.io/",
+},
+
   {
     title: "EKART – Laravel eCommerce Platform",
     description:
